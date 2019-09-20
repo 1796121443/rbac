@@ -5,5 +5,5 @@ Git is a good ....
 <<<<<<< HEAD
 
 =======
-a new branch
+Creating a new branch is quick is quick a simple
 >>>>>>> dev
