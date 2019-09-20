@@ -8,6 +8,6 @@ Git is a good ....
 <<<<<<< HEAD
 Creating a new branch is quick is quick a simple
 =======
-Creating a new branch is quick and simple.
+Creating a new branch is quick  simple.
 >>>>>>> featurel
 >>>>>>> dev
